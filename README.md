@@ -1,1 +1,4 @@
-# shMCTM_cancer_mortality
+# Transcript and protein signatures derived from shared molecular interactions across cancers are associated with mortality 
+Our hypotheses were 1) that there were shared interactions across cancers, and that 2) these interactions were important for pathogenesis and mortality. To test the first hypothesis, we analyzed single cell datasets from different cancers, and compared the cell-cell interactions between different cancers. This resulted in a shMCTM that represented shared cellular interactions across different cancers, from which we identified a gene signature (Figure 1 A and B). For the second hypothesis, we evaluated that signature on transcript and protein levels in two large independent cohorts (TCGA and UKBB). We first compared the expression difference of signature mRNAs between tumor vs. control, then tested the association of the mRNA/protein signatures with 10-year all-cause mortality in cancer patients (Figure 1 C).
+
+![Fig 1  Overview of the studyV5](https://github.com/SDTC-CPMed/shMCTM_cancer_mortality/assets/98571115/a969e48d-5a74-4447-8891-2fe0ac4da2cd)
